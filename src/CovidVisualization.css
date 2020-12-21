@@ -1,0 +1,38 @@
+body { 
+    font-family: "Heiti SC" !important;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.chartTitle {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.loader {
+    margin-top: 15%;
+}
+
+.dd { 
+    display: block;
+}
+
+.ddTitle {
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align-last: center;
+} 
+
+.recharts-default-tooltip { 
+    overflow-y: hidden; 
+}
+
+.recharts-tooltip-item-list {
+    max-height: 250px;
+    font-size: 12px;
+} 
